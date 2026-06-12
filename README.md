@@ -18,22 +18,7 @@ A collection of C++ programs demonstrating core Object Oriented Programming conc
 - Parameterized constructors
 - Constructor overloading
 - Destructors and object lifecycle
----
-## Programs Included
-| Program | Description |
-|---------|-------------|
-| Student Record | Store and display student info using structures |
-| Date Handler | Input and display dates in multiple formats |
-| Employee Manager | Store employee data using structures and classes |
-| Movie Data | Store and display movie info via struct parameters |
-| Triangle Area | Calculate triangle area using nested structures |
-| Wage Calculator | Calculate weekly employee wages using structs |
-| Date Class | Class-based date display in 3 different formats |
-| Distance Class | Class with feet/inches setter and getter functions |
-| Employee Class | Full employee class with setters, getters, and display |
-| Car Class | Car object with accelerate and brake functions |
-| Circle Class | Circle class with area, diameter, circumference |
-| Inventory Class | Retail inventory class with input validation |
+- Friend Functions 
 ---
 ## Who Is This For?
 This repository is useful for:
